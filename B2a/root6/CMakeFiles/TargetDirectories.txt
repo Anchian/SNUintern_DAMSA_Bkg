@@ -1,0 +1,7 @@
+/home/snuintern1/Damsa/B2a/root6/CMakeFiles/edit_cache.dir
+/home/snuintern1/Damsa/B2a/root6/CMakeFiles/install/strip.dir
+/home/snuintern1/Damsa/B2a/root6/CMakeFiles/run.dir
+/home/snuintern1/Damsa/B2a/root6/CMakeFiles/rebuild_cache.dir
+/home/snuintern1/Damsa/B2a/root6/CMakeFiles/list_install_components.dir
+/home/snuintern1/Damsa/B2a/root6/CMakeFiles/install/local.dir
+/home/snuintern1/Damsa/B2a/root6/CMakeFiles/install.dir

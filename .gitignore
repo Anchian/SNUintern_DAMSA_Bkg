@@ -1,0 +1,44 @@
+MakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 실행 바이너리 및 임시 파일 제외
+*.o
+*.so
+*.a
+*.dylib
+*.exe
+*.out
+*.log
+*.tmp
+*.swp
+*.bak
+*.root
+# 사용자 설정 파일 제외
+*.user
+*.session
+*.directory
+
+# IDE 관련 파일 제외
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.ipynb_checkpoints
+
+# Visual Studio 관련
+*.vcxproj*
+*.pdb
+*.sln
+*.obj
+
+# MacOS 및 시스템 파일 제외
+.DS_Store
+Thumbs.db
+*.Spotlight-V100
+*.Trashes
+
+# GEANT4 데이터 다운로드 관련 제외
+Downloads/
+data/
